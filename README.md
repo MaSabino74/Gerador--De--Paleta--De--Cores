@@ -14,6 +14,9 @@ Este é um projeto simples e intuitivo para gerar paletas de cores aleatórias. 
 * Exibição do código hexadecimal para cada cor.
 * Design responsivo, funcionando bem em telas de desktop e mobile.
 
+  <img width="1276" height="617" alt="image" src="https://github.com/user-attachments/assets/4c4790b1-d935-4e9f-8eef-ce290e997bab" />
+
+
 ## 🚀 Como Executar o Projeto
 
 1.  Clone este repositório para a sua máquina local:
